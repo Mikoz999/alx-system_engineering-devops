@@ -1,2 +1,2 @@
 #!/bin/bash
-printif "%.22f\n" $NUM
+printif "%.2f\n" $NUM
