@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 head -3 iacta | tail -1
-=======
-head -3 iacta | tail -1
->>>>>>> 78bf9db (10-no_more_js)
